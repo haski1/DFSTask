@@ -1,0 +1,11 @@
+C:\Projects\C#\TaskDFS\TaskDFS\obj\Debug\netcoreapp3.1\TaskDFS.csprojAssemblyReference.cache
+C:\Projects\C#\TaskDFS\TaskDFS\obj\Debug\netcoreapp3.1\TaskDFS.AssemblyInfoInputs.cache
+C:\Projects\C#\TaskDFS\TaskDFS\obj\Debug\netcoreapp3.1\TaskDFS.AssemblyInfo.cs
+C:\Projects\C#\TaskDFS\TaskDFS\bin\Debug\netcoreapp3.1\TaskDFS.exe
+C:\Projects\C#\TaskDFS\TaskDFS\bin\Debug\netcoreapp3.1\TaskDFS.deps.json
+C:\Projects\C#\TaskDFS\TaskDFS\bin\Debug\netcoreapp3.1\TaskDFS.runtimeconfig.json
+C:\Projects\C#\TaskDFS\TaskDFS\bin\Debug\netcoreapp3.1\TaskDFS.runtimeconfig.dev.json
+C:\Projects\C#\TaskDFS\TaskDFS\bin\Debug\netcoreapp3.1\TaskDFS.dll
+C:\Projects\C#\TaskDFS\TaskDFS\bin\Debug\netcoreapp3.1\TaskDFS.pdb
+C:\Projects\C#\TaskDFS\TaskDFS\obj\Debug\netcoreapp3.1\TaskDFS.dll
+C:\Projects\C#\TaskDFS\TaskDFS\obj\Debug\netcoreapp3.1\TaskDFS.pdb
